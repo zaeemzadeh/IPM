@@ -2,6 +2,7 @@
 implementation of the data selection algorithm proposed in: 
 
 Alireza Zaeemzadeh, Mohsen Joneidi ( shared first authorship) , Nazanin Rahnavard, Mubarak Shah: Iterative Projection and Matching: Finding Structure-preserving Representatives and Its Application to Computer Vision. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+[link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zaeemzadeh_Iterative_Projection_and_Matching_Finding_Structure-Preserving_Representatives_and_Its_Application_CVPR_2019_paper.pdf)
 
 - For a quick demo using MNIST, please run `python demo.py`.
 ## Requirements
