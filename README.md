@@ -28,6 +28,6 @@ If you use IPM in your research, please use the following BibTeX entry.
 
 [UCF Communications and Wireless Networks Lab (CWNlab)](http://cwnlab.eecs.ucf.edu/ipm/)
 
-For inquiries, please contact zaeemzadeh -at- knights.ucf.edu.
+[Active Learning on UCF101 using IPM](https://github.com/zaeemzadeh/Active-Learning-UCF101-IPM)
 
 
