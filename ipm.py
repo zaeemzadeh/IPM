@@ -17,7 +17,7 @@ def ipm(data, n=1, selected_data=None):
 
 
 def ipm_add_sample(train, pool, pooled_idx):
-    candidate_samples = range(0, len(pool)) 
+    candidate_samples = range(0, len(pool))
     set_idx = [int(idx) for idx in pooled_idx]
 
     # generating the matrix of already selected samples

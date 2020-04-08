@@ -5,6 +5,7 @@ Alireza Zaeemzadeh, Mohsen Joneidi ( shared first authorship) , Nazanin Rahnavar
 [link](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zaeemzadeh_Iterative_Projection_and_Matching_Finding_Structure-Preserving_Representatives_and_Its_Application_CVPR_2019_paper.pdf)
 
 - For a quick demo using MNIST, please run `python demo.py`.
+- For active learning experiments on UCF101 video dataset see [here](https://github.com/zaeemzadeh/Active-Learning-UCF101-IPM).
 ## Requirements
 irlb: Truncated SVD by implicitly restarted Lanczos bidiagonalization for Numpy! [code](https://github.com/bwlewis/irlbpy)
 
